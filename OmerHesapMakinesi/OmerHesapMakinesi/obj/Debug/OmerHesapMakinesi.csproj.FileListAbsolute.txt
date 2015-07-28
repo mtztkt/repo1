@@ -1,0 +1,9 @@
+c:\users\mzk\documents\visual studio 2013\Projects\OmerHesapMakinesi\OmerHesapMakinesi\bin\Debug\OmerHesapMakinesi.exe.config
+c:\users\mzk\documents\visual studio 2013\Projects\OmerHesapMakinesi\OmerHesapMakinesi\bin\Debug\OmerHesapMakinesi.exe
+c:\users\mzk\documents\visual studio 2013\Projects\OmerHesapMakinesi\OmerHesapMakinesi\bin\Debug\OmerHesapMakinesi.pdb
+c:\users\mzk\documents\visual studio 2013\Projects\OmerHesapMakinesi\OmerHesapMakinesi\obj\Debug\OmerHesapMakinesi.csprojResolveAssemblyReference.cache
+c:\users\mzk\documents\visual studio 2013\Projects\OmerHesapMakinesi\OmerHesapMakinesi\obj\Debug\OmerHesapMakinesi.Form1.resources
+c:\users\mzk\documents\visual studio 2013\Projects\OmerHesapMakinesi\OmerHesapMakinesi\obj\Debug\OmerHesapMakinesi.Properties.Resources.resources
+c:\users\mzk\documents\visual studio 2013\Projects\OmerHesapMakinesi\OmerHesapMakinesi\obj\Debug\OmerHesapMakinesi.csproj.GenerateResource.Cache
+c:\users\mzk\documents\visual studio 2013\Projects\OmerHesapMakinesi\OmerHesapMakinesi\obj\Debug\OmerHesapMakinesi.exe
+c:\users\mzk\documents\visual studio 2013\Projects\OmerHesapMakinesi\OmerHesapMakinesi\obj\Debug\OmerHesapMakinesi.pdb
